@@ -1,0 +1,9 @@
+
+Log Entry :
+11/10/2018 15:18:27
+Error in :PurchaseMaterial
+From Method: Void button3_Click(System.Object, System.EventArgs)
+At Line Number:17
+Erro Msg : Object reference not set to an instance of an object.
+
+_______________________________
