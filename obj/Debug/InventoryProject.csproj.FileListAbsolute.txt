@@ -1,0 +1,60 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\bin\Debug\InventoryProject.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\bin\Debug\InventoryProject.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\bin\Debug\InventoryProject.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.ChangePasswordForm.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.ShopProfile.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Login.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\obj\Debug\InventoryProject.ReportViewerForm1.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.Bank.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.Customer.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.CustomerBill.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.CustomerReceipt.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.AddItem.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.prodType.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.MDIParent1.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.PurchaseMaterial.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.SelectDate.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.Stock.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.Supplier.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.SupplierPayment.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.forgotPassword.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.UserManagmentForm.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\obj\Debug\InventoryProject.splash.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\obj\Debug\InventoryProject.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\obj\Debug\InventoryProject.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\obj\Debug\InventoryProject.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\InventoryProject\InventoryProject\obj\Debug\InventoryProject.csprojResolveAssemblyReference.cache
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\bin\Debug\InventoryProject.exe.config
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\obj\Debug\InventoryProject.exe
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\obj\Debug\InventoryProject.pdb
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\bin\Debug\InventoryProject.exe
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\bin\Debug\InventoryProject.pdb
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\obj\Debug\InventoryProject.csprojResolveAssemblyReference.cache
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.ChangePasswordForm.resources
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.ShopProfile.resources
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Login.resources
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\obj\Debug\InventoryProject.ReportViewerForm1.resources
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.Bank.resources
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.Customer.resources
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.CustomerBill.resources
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.CustomerReceipt.resources
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.AddItem.resources
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.prodType.resources
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.MDIParent1.resources
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.PurchaseMaterial.resources
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.SelectDate.resources
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.Stock.resources
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.Supplier.resources
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.SupplierPayment.resources
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.forgotPassword.resources
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Forms.UserManagmentForm.resources
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Properties.Resources.resources
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\obj\Debug\InventoryProject.splash.resources
+D:\Prapti Deokar\inventory\InventoryProject\InventoryProject\obj\Debug\InventoryProject.csproj.GenerateResource.Cache
+D:\AARV\InventoryProject\InventoryProject\bin\Debug\InventoryProject.exe.config
+D:\AARV\InventoryProject\InventoryProject\obj\Debug\InventoryProject.exe
+D:\AARV\InventoryProject\InventoryProject\obj\Debug\InventoryProject.pdb
+G:\AARV\InventoryProject\InventoryProject\bin\Debug\InventoryProject.exe.config
+G:\AARV\InventoryProject\InventoryProject\obj\Debug\InventoryProject.exe
+G:\AARV\InventoryProject\InventoryProject\obj\Debug\InventoryProject.pdb
